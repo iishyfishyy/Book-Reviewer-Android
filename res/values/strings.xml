@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">reVü</string>
+    <string name="action_settings">Settings</string>
+    <string name="isbn_textview">"ISBN: "</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="scan_book">Scan Book</string>
+    <string name="barcode">BARCODE</string>
+    <string name="qr_code">QR CODE</string>
+    <string name="camera_string">CAMERA</string>
+
+</resources>
